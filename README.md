@@ -1,4 +1,4 @@
-View on:
+View on: https://nirvanacore.github.io/BasicPortfolio-HtmlCss/
 
 Basic Portfolio Page
 
